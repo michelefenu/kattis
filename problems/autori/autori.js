@@ -6,9 +6,17 @@ var rl = readline.createInterface({
 });
 
 rl.on('line', function (line) {
+    console.log(printSolution(line));
+});
+
+function printSolution(line) {
     let shortAuthors = line
         .match(/[A-Z]/g)
         .join('');
 
-    console.log(shortAuthors);
-});
+    return(shortAuthors);
+}
+
+module.exports = {
+    printSolution: printSolution
+};
