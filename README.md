@@ -4,7 +4,7 @@ My solutions or solution attempts to open kattis problems, the folders have the 
 
 ![kattis logo](/assets/kattis-site-logo.png)
 
-⚠️⚠️⚠️ **CLEAN CODERS ALERT: Dirty and messy code inside this repo** ⚠️⚠️⚠️
+⚠️⚠️⚠️ **CLEAN CODERS ALERT: Very messy code inside this repo** ⚠️⚠️⚠️
 
 ### enigmatography
 Noun (_uncountable_)
