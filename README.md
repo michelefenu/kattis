@@ -10,7 +10,7 @@ To test the solutions:
 
 ![kattis logo](/assets/kattis-site-logo.png)
 
-⚠️⚠️⚠️ **CLEAN CODERS ALERT: Very messy code inside this repo including bad para** ⚠️⚠️⚠️
+⚠️⚠️⚠️ **_CLEAN CODERS ALERT_: Very messy code inside this repo including bad practices, poor variable naming, bad indentation, unnecessary code complexity and many more** ⚠️⚠️⚠️
 
 ### enigmatography
 **Noun** (_uncountable_)
