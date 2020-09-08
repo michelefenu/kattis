@@ -1,13 +1,19 @@
 # Open Kattis, Just for fun
 
-My solutions or solution attempts to open kattis problems, the folders have the same names as the problems on the [kattis](https://open.kattis.com) website
+My solutions to some Open Kattis problems, mostly in plain JavaScript. The folders inside the _problems_ directory have the same names as the problems on the [kattis](https://open.kattis.com) website. 
+
+To test the solutions:
+1. Go to: https://open.kattis.com/problems/{folder-name}/submit
+2. Upload the solution file
+3. Select the correct language (almost all solutions are JavaScript/Node.js)
+4. Submit
 
 ![kattis logo](/assets/kattis-site-logo.png)
 
-⚠️⚠️⚠️ **CLEAN CODERS ALERT: Very messy code inside this repo** ⚠️⚠️⚠️
+⚠️⚠️⚠️ **CLEAN CODERS ALERT: Very messy code inside this repo including bad para** ⚠️⚠️⚠️
 
 ### enigmatography
-Noun (_uncountable_)
-1. The art of making or solving puzzles.
+**Noun** (_uncountable_)
+1. The art of making or solving _puzzles_.
 
-Origin: Ancient Greek αἰνίγματος (ainigmatos) (genitive of αἴνιγμα (ainigma, “cryptic saying, riddle”)) +‎ -graphy.
+**Origin**: Ancient Greek αἰνίγματος (ainigmatos) (genitive of αἴνιγμα (ainigma, “cryptic saying, riddle”)) +‎ -graphy.
