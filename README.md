@@ -2,11 +2,14 @@
 
 My solutions to some Open Kattis problems, mostly in plain JavaScript. The folders inside the _problems_ directory have the same names as the problems on the [kattis](https://open.kattis.com) website. 
 
-To test the solutions:
+To test the solutions on the kattis website:
 1. Go to: https://open.kattis.com/problems/{folder-name}/submit
 2. Upload the solution file
 3. Select the correct language (almost all solutions are JavaScript/Node.js)
 4. Submit
+
+To test the solutions on local machine
+- JS: `node ./problems/problemname/problemname.js < ./problems/problemname/data/problemname.1.in`
 
 ![kattis logo](/assets/kattis-site-logo.png)
 
