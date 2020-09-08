@@ -1,8 +1,12 @@
-![](https://github.com/michelefenu/kattis/workflows/Test%20Answers/badge.svg)
+# Open Kattis, Just for fun
 
-# kattis
-Code problems from Kattis
+My solutions or solution attempts to open kattis problems, the folders have the same names as the problems on the [kattis](https://open.kattis.com) website
 
-To run the solutions
+![kattis logo](/assets/kattis-site-logo.png)
+*WARNING: Dirty and messy code inside this repo*
 
-node problem.js < input.in
+### enigmatography
+Noun (_uncountable_)
+1. The art of making or solving puzzles.
+
+Origin: Ancient Greek αἰνίγματος (ainigmatos) (genitive of αἴνιγμα (ainigma, “cryptic saying, riddle”)) +‎ -graphy.
