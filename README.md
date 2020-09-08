@@ -3,7 +3,8 @@
 My solutions or solution attempts to open kattis problems, the folders have the same names as the problems on the [kattis](https://open.kattis.com) website
 
 ![kattis logo](/assets/kattis-site-logo.png)
-*WARNING: Dirty and messy code inside this repo*
+
+⚠️ **CLEAN CODERS ALERT: Dirty and messy code inside this repo**
 
 ### enigmatography
 Noun (_uncountable_)
