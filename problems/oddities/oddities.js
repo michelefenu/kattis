@@ -14,5 +14,5 @@ rl.on('line', function (line) {
 rl.on('close', () => {
   const numbers = input.slice(1)
 
-  numbers.map(x => console.log(x%2 ? `${x} is even` : `${x} is odd`))
+  numbers.map(x => console.log(x % 2 === 0 ? `${x} is even` : `${x} is odd`))
 })
