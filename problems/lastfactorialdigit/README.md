@@ -1,1 +1,1 @@
-Problem: https://open.kattis.com/problems/nastyhacks
+Problem: https://open.kattis.com/problems/lastfactorialdigit
