@@ -8,7 +8,7 @@ To test the solutions on the kattis website:
 3. Select the correct language (almost all solutions are JavaScript/Node.js)
 4. Submit
 
-To test the solutions on local machine
+To run the solutions on local machine
 - JS: `node ./problems/problemname/problemname.js < ./problems/problemname/data/problemname.1.in`
 
 ![kattis logo](/assets/kattis-site-logo.png)
